@@ -7,3 +7,9 @@ Run a local node quickly buy using `fudge serve`
 
 Windows
 `choco install fudge`
+
+Mac
+`brew install fudge`
+
+Ubunutu
+`sudo apt install fudge`
